@@ -15,8 +15,8 @@
 ---
 
 ### 3. Assignment Requirements Met
-**How well did you meet the requirements as set out in the challenge?** 
-**What requirements did you not meet correctly (if any)?** 
+**How well did you meet the requirements as set out in the challenge?** As far as I can tell, I met all requirements set out in the challenge documentation.  
+**What requirements did you not meet correctly (if any)?** I believe I met all correctly.  
 
 ---
 
