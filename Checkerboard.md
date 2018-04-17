@@ -16,26 +16,13 @@
 
 ### 3. Assignment Requirements Met
 **How well did you meet the requirements as set out in the challenge?** As far as I can tell, I met all requirements set out in the challenge documentation.  
-**What requirements did you not meet correctly (if any)?** I believe I met all correctly.  
+**What requirements did you not meet correctly (if any)?** I believe I met all requirements correctly.  
 
 ---
 
 ### 4. Submission to Solution Comparison
-**How well does your solution match the posted solution?** 
-**What is different?** 
-
-Checkerboard:
-  Rectangle as an attribute
-  Different constructor approach
-  No setprefsize
-  Called different rectangle contstructors, requiring me to set anchors
-Checkers:
-  Used startable.java
-CheckerUI:
-  AnchorPane instead of StackPane
-CheckersUIController:
-  Used default colors in construction, default size in start constructor call
-  Used If-Else ladder for switching color/size, didn't store values just new board
+**How well does your solution match the posted solution?** For the most part, my code has the same general structure as the posted solution with, in my opinion, minor changes between implementation. Generally they appear to have the same flow and structure.  
+**What is different?** In addition to the three differences listed in section 1 (different rectangle constructor, slightly different approach to the Checkerboard constructor, and not storing the rows/cols, colors, and board sizes in the controller) there are additional differences. Smaller ones include things such as storing the Rectangle object as an attribute in my Checkerboard model or setting the prefsize for the scene in the model compared to in the FXML. Also, we used a somewhat different approach to employing the default rows/cols and color scheme in the initial call to the Checkerboard constructor. The two biggest differences I noted between the codebases were that I used a startable controller, and that I used an AnchorPane rather than a StackPane, although that was a requirement of the challenge. All in all, the my code and the solution were quite close.
   
 ---
 
